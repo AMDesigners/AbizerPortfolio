@@ -498,6 +498,7 @@ nav.active {
     display: flex;
     align-items: start;
     justify-content: space-between;
+    margin-top: 3.3rem;
 }
 .acc-heading, .acc-p {
     transition: all 1s linear;
@@ -547,8 +548,7 @@ nav.active {
     opacity: 0.2;
 }
 .accomplish .right {
-    height: 45rem;  
-    margin-top: 3.3rem;
+    height: 30rem;  
     width: 40%;
 }
 .right .right1 {
