@@ -496,7 +496,7 @@ nav.active {
 }
 .accomplish .acc-row {
     display: flex;
-    align-items: center;
+    align-items: start;
     justify-content: space-between;
 }
 .acc-heading, .acc-p {
@@ -547,7 +547,7 @@ nav.active {
     opacity: 0.2;
 }
 .accomplish .right {
-    height: 30rem;  
+    height: 35rem;  
     margin-top: 3.3rem;
     width: 40%;
 }
