@@ -550,21 +550,6 @@ nav.active {
 .accomplish .right {
     height: 30rem;  
     width: 40%;
-}
-.right .right1 {
-    margin-bottom: 1rem;
-    transform: translateX(100vw);
-    transition: all 1s linear;
-    animation-delay: 0.3s;
-}
-.right .right2 {
-    margin: 1rem 0;
-    transform: translateX(100vw);
-    transition: all 1s linear;
-    animation-delay: 0.3s;
-}
-.right .right3 {
-    margin-top: 1rem;
     transform: translateX(100vw);
     transition: all 1s linear;
     animation-delay: 0.3s;
