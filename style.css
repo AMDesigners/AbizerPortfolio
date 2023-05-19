@@ -548,7 +548,7 @@ nav.active {
     opacity: 0.2;
 }
 .accomplish .right {
-    height: 60rem;  
+    height: 30rem;  
     width: 40%;
     transform: translateX(100vw);
     transition: all 1s linear;
