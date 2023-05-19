@@ -558,7 +558,7 @@ nav.active {
     animation-delay: 0.3s;
 }
 .right .right2 {
-    margin: 0 1rem;
+    margin: 1rem 0;
     transform: translateX(100vw);
     transition: all 1s linear;
     animation-delay: 0.3s;
