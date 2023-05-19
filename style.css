@@ -532,7 +532,7 @@ nav.active {
 .accomplish-a:hover , .foot-a:hover {
     justify-content: space-between;
 }
-.accomplish-a:hover > .fa-arrow-right , .foot-a:hover > .fa-arrow-right {
+.accomplish-a:hover > .fa-arrow-right , .foot-a:hover > .fa-arrow-right, .accomplish .right {
     animation: come 0.5s forwards;
 }
 
